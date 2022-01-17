@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alperburak01
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently developing python
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me? Answer of this is via instagram. My username is @alperburak01
 
