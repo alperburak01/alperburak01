@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and ai
 - 🌱 I’m currently developing python 
 - 💞️ I’m looking to collaborate on programming projects
-- 
+- I love learning
 - 
 
 <!---
